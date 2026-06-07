@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
