@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
