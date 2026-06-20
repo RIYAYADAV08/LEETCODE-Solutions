@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
