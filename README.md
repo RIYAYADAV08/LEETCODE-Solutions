@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Math
 |  |
 | ------- |
