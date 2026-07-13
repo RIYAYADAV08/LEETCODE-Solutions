@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0127-word-ladder) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -350,4 +352,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
