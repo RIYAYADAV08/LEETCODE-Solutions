@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 ## Tree
 |  |
 | ------- |
@@ -358,8 +361,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
