@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0133-clone-graph) |
+| [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Combinatorics
 |  |
 | ------- |
