@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -398,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0133-clone-graph) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
