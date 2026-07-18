@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
 ## Simulation
 |  |
 | ------- |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
