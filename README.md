@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
