@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
