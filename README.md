@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
