@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
