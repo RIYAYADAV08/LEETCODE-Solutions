@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0155-min-stack) |
 ## Array
 |  |
 | ------- |
@@ -424,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
