@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0174-dungeon-game) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0174-dungeon-game) |
 ## Two Pointers
 |  |
 | ------- |
