@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Simulation
 |  |
 | ------- |
