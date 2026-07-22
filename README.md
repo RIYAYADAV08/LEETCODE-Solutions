@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
