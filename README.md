@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -489,12 +490,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0175-combine-two-tables) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
