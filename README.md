@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
 ## Hash Table
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -460,11 +463,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
