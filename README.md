@@ -288,6 +288,7 @@
 | [0044-wildcard-matching](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -331,6 +332,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
