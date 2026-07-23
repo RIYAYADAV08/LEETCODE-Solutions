@@ -263,6 +263,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0223-rectangle-area) |
 ## Simulation
 |  |
 | ------- |
@@ -482,6 +483,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0223-rectangle-area) |
 ## Design
 |  |
 | ------- |
