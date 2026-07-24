@@ -80,6 +80,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [0050-powx-n](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
