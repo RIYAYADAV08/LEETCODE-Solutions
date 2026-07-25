@@ -31,6 +31,7 @@
 | [0171-excel-sheet-column-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -148,6 +149,7 @@
 | [0198-house-robber](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
@@ -207,6 +209,7 @@
 | [0113-path-sum-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0216-combination-sum-iii) |
 ## Matrix
 |  |
@@ -224,6 +227,7 @@
 | [0130-surrounded-regions](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -580,4 +584,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
