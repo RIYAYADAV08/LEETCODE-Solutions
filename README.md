@@ -147,6 +147,7 @@
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
@@ -186,6 +187,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -369,6 +371,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Depth-First Search
 |  |
@@ -569,4 +572,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
