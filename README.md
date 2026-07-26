@@ -193,6 +193,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Backtracking
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Memoization
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -464,6 +467,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
