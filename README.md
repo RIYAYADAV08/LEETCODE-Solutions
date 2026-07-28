@@ -69,6 +69,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 ## Stack
 |  |
@@ -161,6 +162,7 @@
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 ## Hash Table
 |  |
