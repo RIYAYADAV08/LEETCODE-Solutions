@@ -34,6 +34,7 @@
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0223-rectangle-area) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [0135-candy](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
