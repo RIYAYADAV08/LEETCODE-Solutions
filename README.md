@@ -32,6 +32,7 @@
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -189,6 +190,7 @@
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
@@ -538,6 +540,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Bucket Sort
 |  |
@@ -610,6 +613,7 @@
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 ## Queue
 |  |
