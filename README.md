@@ -31,6 +31,7 @@
 | [0171-excel-sheet-column-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -187,6 +188,7 @@
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
