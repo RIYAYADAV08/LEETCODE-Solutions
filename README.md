@@ -155,6 +155,7 @@
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
@@ -288,6 +289,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0223-rectangle-area) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
@@ -611,4 +613,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
