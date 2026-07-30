@@ -167,6 +167,7 @@
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 ## Hash Table
@@ -339,6 +340,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [0187-repeated-dna-sequences](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -549,6 +552,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -600,6 +604,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
 ## Quickselect
 |  |
 | ------- |
