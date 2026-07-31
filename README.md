@@ -430,6 +430,7 @@
 | [0207-course-schedule](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -460,6 +461,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -490,6 +492,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -519,6 +522,7 @@
 | [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
