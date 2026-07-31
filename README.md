@@ -73,6 +73,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 ## Stack
@@ -168,6 +169,7 @@
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 ## Hash Table
@@ -246,6 +248,7 @@
 | [0174-dungeon-game](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0221-maximal-square) |
 ## Two Pointers
 |  |
 | ------- |
