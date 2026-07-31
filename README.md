@@ -36,6 +36,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@
 | [0155-min-stack](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Array
@@ -300,6 +302,7 @@
 | [0202-happy-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
