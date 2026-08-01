@@ -172,6 +172,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 ## Hash Table
@@ -199,6 +200,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | [0217-contains-duplicate](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -365,6 +368,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
