@@ -77,6 +77,7 @@
 | [0221-maximal-square](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
+| [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
+| [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
@@ -334,6 +337,7 @@
 | [0060-permutation-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -654,4 +658,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
