@@ -37,6 +37,7 @@
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -75,6 +76,7 @@
 | [0198-house-robber](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
@@ -314,6 +316,7 @@
 | [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -345,6 +348,7 @@
 | [0060-permutation-sequence](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
@@ -419,6 +423,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -710,4 +715,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
