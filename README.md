@@ -39,6 +39,7 @@
 | [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -247,6 +248,7 @@
 | [0131-palindrome-partitioning](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -467,6 +469,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -501,6 +504,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -535,6 +539,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
