@@ -450,6 +450,7 @@
 | [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -483,6 +484,7 @@
 | [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -516,6 +518,7 @@
 | [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -682,8 +685,10 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
