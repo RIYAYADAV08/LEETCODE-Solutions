@@ -78,6 +78,7 @@
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 | [0223-rectangle-area](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
@@ -662,4 +665,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
