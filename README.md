@@ -325,6 +325,7 @@
 | [0227-basic-calculator-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
