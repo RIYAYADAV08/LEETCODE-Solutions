@@ -643,6 +643,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0262-trips-and-users) |
 ## String Matching
 |  |
