@@ -81,6 +81,7 @@
 | [0213-house-robber-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
@@ -330,6 +331,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
@@ -585,6 +587,7 @@
 | [0207-course-schedule](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Union-Find
 |  |
@@ -747,4 +750,12 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
