@@ -233,6 +233,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0278-first-bad-version) |
 ## Backtracking
 |  |
 | ------- |
@@ -758,4 +759,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
