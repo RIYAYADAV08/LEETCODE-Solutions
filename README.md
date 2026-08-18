@@ -40,6 +40,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -253,6 +254,7 @@
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
@@ -328,6 +330,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0263-ugly-number) |
+| [0282-expression-add-operators](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
