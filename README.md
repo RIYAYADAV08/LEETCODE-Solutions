@@ -40,6 +40,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -252,6 +253,7 @@
 | [0212-word-search-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -580,6 +582,7 @@
 | [0207-course-schedule](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Union-Find
 |  |
 | ------- |
