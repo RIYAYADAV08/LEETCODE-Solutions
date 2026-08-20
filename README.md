@@ -189,6 +189,7 @@
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
+| [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -220,6 +221,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
+| [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -361,6 +363,7 @@
 | [0135-candy](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -444,6 +447,7 @@
 | [0191-number-of-1-bits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0260-single-number-iii) |
+| [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 ## Memoization
 |  |
 | ------- |
