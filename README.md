@@ -190,6 +190,7 @@
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -348,6 +349,7 @@
 | [0067-add-binary](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
