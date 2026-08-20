@@ -191,6 +191,7 @@
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
@@ -341,6 +342,7 @@
 | [0282-expression-add-operators](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
@@ -364,6 +366,7 @@
 | [0179-largest-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -413,6 +416,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -729,14 +733,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -771,4 +778,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0278-first-bad-version) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
