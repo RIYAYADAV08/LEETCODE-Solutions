@@ -187,6 +187,7 @@
 | [0239-sliding-window-maximum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
@@ -225,6 +226,7 @@
 | [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
@@ -242,6 +244,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0278-first-bad-version) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
@@ -343,6 +346,7 @@
 | [0258-add-digits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
@@ -401,6 +405,7 @@
 | [0220-contains-duplicate-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -458,6 +463,7 @@
 | [0191-number-of-1-bits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Memoization
