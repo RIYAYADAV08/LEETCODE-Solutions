@@ -188,6 +188,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0274-h-index) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
@@ -406,6 +407,7 @@
 | [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0274-h-index) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -798,4 +800,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
