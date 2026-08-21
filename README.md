@@ -81,6 +81,7 @@
 | [0213-house-robber-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0403-frog-jump) |
@@ -223,6 +224,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0264-ugly-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
@@ -340,6 +342,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0486-predict-the-winner) |
@@ -694,6 +697,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0264-ugly-number-ii) |
 ## Ordered Set
 |  |
 | ------- |
