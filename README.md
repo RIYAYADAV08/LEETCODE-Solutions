@@ -193,6 +193,7 @@
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -240,6 +241,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0278-first-bad-version) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [1406-stone-game-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
@@ -437,6 +440,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -452,6 +456,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Memoization
 |  |
 | ------- |
@@ -728,6 +733,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Game Theory
 |  |
 | ------- |
