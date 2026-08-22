@@ -41,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -228,6 +229,7 @@
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0290-word-pattern) |
 | [1386-cinema-seat-allocation](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
