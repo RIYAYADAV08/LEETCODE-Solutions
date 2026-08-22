@@ -314,6 +314,7 @@
 | [0189-rotate-array](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -410,6 +411,7 @@
 | [0242-valid-anagram](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [3731-find-missing-elements](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -649,6 +651,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -708,6 +711,7 @@
 | [0218-the-skyline-problem](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -806,4 +810,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0274-h-index) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/RIYAYADAV08/LEETCODE-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
